@@ -21,11 +21,11 @@ Classification is to categorize data into different groups by variable values. I
 A classifier is an algorithm[1] that allows you to perform classification, i.e., categorize data into groups. One of the most common examples is an email classifier that scans emails to filter them by the labels of *Spam* or *Not Spam*. 
 
 [1]: If you are wondering what an algorithm is - it is a sequence of instructions to solve a problem. It is everywhere in our lives. One example is instructions on how to bake a cake:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preheat the oven
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mix together the ingredients to make the batter
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour the batter into the pan
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Put the pan in the oven
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take the pan out of the oven
+-- Preheat the oven
+-- Mix together the ingredients to make the batter
+-- Pour the batter into the pan
+-- Put the pan in the oven
+-- Take the pan out of the oven
 
 With a classifier in hand, we can apply it to new data to predict a category for it. 
 
