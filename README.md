@@ -34,7 +34,7 @@ In our demo data, we are interested in whether a person is less/more likely to g
 
 We have the following ten variables:
 - the age of a person
-- the gender of a person (1: Male, 0:Female)
+- the gender of a person (1: Male, 0: Female)
 - chest pain type
 - resting blood pressure
 - cholestoral in mg/dl
