@@ -32,7 +32,7 @@ With a classifier in hand, we can apply it to new data to predict a category for
 ## Demo Dataset
 In our demo data, we are interested in whether a person is less/more likely to get a heart attack. 
 
-We have the following ten variables:
+We have the following nine variables:
 - the age of a person
 - the gender of a person (1: Male, 0: Female)
 - chest pain type
@@ -42,6 +42,5 @@ We have the following ten variables:
 - resting electrocardiographic results
 - maximum heart rate achieved
 - if exercise induced angina (1: yes, 0: no)
-- previous heart attack peak
 
 Each data entry containing values for these variables has a corresponding "output" label. If the label is 1, the person is very likely to get a heart attack, while if the label is 0, the person is less likely to get a heart attack. Please refer to this tutorial to see how to build a common type of classifier, Logistic Regression, to classify the data using scikit-learn.
